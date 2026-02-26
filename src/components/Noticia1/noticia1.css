@@ -1,0 +1,47 @@
+
+.noticia {
+  max-width: 720px;
+  margin: 60px auto;
+  padding: 20px;
+  font-family: Georgia, "Times New Roman", serif;
+  color: #1a1a1a;
+  line-height: 1.7;
+
+  border: 4px solid #000000;
+  border-radius: 30px;
+}
+
+.noticia__header {
+  margin-bottom: 28px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 20px;
+}
+
+.noticia__titulo {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.5px;
+  margin: 0 0 12px 0;
+  color: #111;
+}
+
+.noticia__subtitulo {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #555;
+  margin: 0;
+  max-width: 95%;
+}
+
+.noticia__contenido {
+  font-size: 0.8rem;
+}
+
+.noticia__parrafo {
+  margin-bottom: 1.4em;
+  text-align: justify;
+}
+.noticia__parrafo:first-child {
+  font-size: 1.2rem;
+}
