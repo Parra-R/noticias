@@ -1,11 +1,11 @@
-import Noticia1 from './Noticia1/Noticia1'
+import Noticia3 from './Noticia3/Noticia3'
 import './App.css'
 
 const App = () => {
 
   return (
     <>
-    <Noticia1/>
+    <Noticia3/>
     </>
   )
 }
